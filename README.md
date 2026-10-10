@@ -23,10 +23,8 @@ The model aims to learn the relationship between the independent variable (X) i.
 ### Workflow & Implementation
 1. Data Loading: Importing data cleanly using `pandas.read_csv()`.
 2. Exploratory Data Analysis (EDA): Checking correlations and plotting scatter plots to verify  linear relationship.
-3. Data Preprocessing: Handling missing values, splitting data into features (X) and target (Y), and performing a Train-Test Split (e.g., 80% train, 20% test).
-4. Model Training:Fitting the `LinearRegression()` model from `sklearn.linear_model` on the training dataset.
-5. Evaluation: Testing the model's accuracy on unseen data.
-
+3. Model Training:Fitting the `LinearRegression()` model from `sklearn.linear_model` on the training dataset.
+4. Evaluation: Testing the model's accuracy on unseen data.
 
 ---
 
@@ -54,8 +52,5 @@ The model aims to learn the relationship between the independent variable (X) i.
 ### Workflow & Implementation
 1. Data Loading: Importing data cleanly using `pandas.read_csv()`.
 2. Exploratory Data Analysis (EDA): Checking correlations and plotting scatter plots to verify  linear relationship.
-3. Data Preprocessing: Handling missing values, splitting data into features (X) and target (Y), and performing a Train-Test Split (e.g., 80% train, 20% test).
-4. Model Training:Fitting the `LinearRegression()` model from `sklearn.linear_model` on the training dataset.
-5. Evaluation: Testing the model's accuracy on unseen data.
-
-- - -
+3. Model Training:Fitting the `LinearRegression()` model from `sklearn.linear_model` on the training dataset.
+4. Evaluation: Testing the model's accuracy on unseen data.
