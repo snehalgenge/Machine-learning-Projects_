@@ -1,6 +1,6 @@
 # Machine-learning-Projects
 Learning fundamental machine learning algorithms 
-## Project 1
+## Project 1 
 ### File -
 1.A1_Delivery_Time_Model.ipynb
 
@@ -10,7 +10,7 @@ Learning fundamental machine learning algorithms
 The primary objective of this project is to build a predictive machine learning model using **Simple Linear Regression** to estimate a continuous numeric target variable based on input features. 
 
 ### Goal
-The model aims to learn the relationship between the independent variable (X) i.e.**Delivery time**and the dependent variable (Y) is **Sorting time** by finding the **line of best fit**. 
+The model aims to learn the relationship between the independent variable (X) i.e.**Delivery time**and the dependent variable (Y) is **Sorting time** by finding the **line of best fit**. and ***Predict delivery time using sorting time***.
 
 ### Tool 
 * Language: Python 3.x
@@ -39,7 +39,7 @@ The model aims to learn the relationship between the independent variable (X) i.
 The primary objective of this project is to build a predictive machine learning model using **Simple Linear Regression** to estimate a continuous numeric target variable based on input features. 
 
 ### Goal
-The model aims to learn the relationship between the independent variable (X) i.e.**Years Experience**and the dependent variable (Y) is **Salary** by finding the **line of best fit**. 
+The model aims to learn the relationship between the independent variable (X) i.e.**Years Experience**and the dependent variable (Y) is **Salary** by finding the **line of best fit** and ***Build a prediction model for Salary_hike***.
 
 ### Tool 
 * Language: Python 3.x
